@@ -1,1 +1,22 @@
 /* your code */
+body{
+	
+	width:370px;
+	height:270px;
+	border:solid  1px;
+	border-radius:2%;
+	
+}
+#head{
+	background-color:blue;	 
+	color:white;
+}
+
+tr{
+	line-height:50px;	
+	/* white-space:10px; */
+}
+#rowfive,
+#rowthree{
+	background-color:lightgray;
+}
